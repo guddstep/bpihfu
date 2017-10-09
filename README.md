@@ -1,2 +1,2 @@
-# bpihfu
-BananaPI R1 Projekt an der HFU
+# BananaPI R1 Router - Semesterprojekt an der HFU
+...
